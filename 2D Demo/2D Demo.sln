@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Demo", "Assembly-CSharp.csproj", "{564D629A-2F3B-A29A-1957-0E53D09C78D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Demo", "MelodriveTests.csproj", "{7062E54F-E8CB-8862-74F7-68D3A17ED6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Demo", "MelodriveScripts.csproj", "{E458F985-229F-258D-72EB-927B996C80D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564D629A-2F3B-A29A-1957-0E53D09C78D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564D629A-2F3B-A29A-1957-0E53D09C78D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564D629A-2F3B-A29A-1957-0E53D09C78D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564D629A-2F3B-A29A-1957-0E53D09C78D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7062E54F-E8CB-8862-74F7-68D3A17ED6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7062E54F-E8CB-8862-74F7-68D3A17ED6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7062E54F-E8CB-8862-74F7-68D3A17ED6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7062E54F-E8CB-8862-74F7-68D3A17ED6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E458F985-229F-258D-72EB-927B996C80D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E458F985-229F-258D-72EB-927B996C80D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E458F985-229F-258D-72EB-927B996C80D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E458F985-229F-258D-72EB-927B996C80D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
